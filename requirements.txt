@@ -1,4 +1,4 @@
-pytorch==1.7.0
+torch==1.7.0
 torch-scatter==2.0.5
 torch-sparse==0.6.8
 torch-cluster==1.5.8
